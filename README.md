@@ -4,7 +4,7 @@
 
 
 ###  FlowZilla is the Ai generative NFT marketplace for metaverse avatars, game assets, Anime characters and costumes.
-### Contract
+### Contract = https://github.com/Disha1998/FlowZilla/tree/disha/flow/cadence/contracts
 
 
 
